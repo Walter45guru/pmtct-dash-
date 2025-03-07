@@ -1,0 +1,12 @@
+Indicator,Description
+MOH 731 1st ANC Visits HV02-01,The initial clinical visit made by pregnant women to the hospital upon confirming their pregnancy. Pregnant women are recommended to attend eight ANC visits before delivery.
+MOH 731 Known Positive at 1st ANC HV02-03,"Of the women attending their first ANC visit, the number whose HIV status is confirmed positive."
+MOH 731 Initial test at ANC HV02-04,The total number of HIV tests conducted during the first ANC visit.
+MOH 731 Total Given Penta 1 HV02-38,"The number of children administered the pentavalent vaccine, which protects against diphtheria, tetanus, pertussis, Haemophilus influenzae type B (Hib), and hepatitis B."
+MOH 731 Known Exposure_at Penta 1 HV02-37,The number of children who got infected at penta 1.
+MOH 731 Retesting_PNC<= 6 weeks HV02-08,The number of children retested for HIV within six weeks or less during Postnatal Care (PNC).
+Syphilis Screening at 1st ANC,The number of women screened for syphilis during their first antenatal clinic visit.
+New TB Cases Identified,The total number of newly diagnosed tuberculosis (TB) cases.
+HIV Testing Among TB Cases,The number of TB cases that underwent HIV testing.
+HIV Positive TB Cases,"Of the TB cases tested for HIV, the number that tested positive for HIV."
+TB Cases on HAART,"Of the TB cases confirmed as HIV positive, the number started on Highly Active Antiretroviral Therapy (HAART) for long-term treatment."
